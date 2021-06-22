@@ -1,0 +1,39 @@
+html,body {
+    margin: 0;
+    padding: 0;
+   
+    background-color:black;
+    background-size: 100% 100%;
+    
+  }
+  
+  canvas{
+    border: 2px solid black;
+  }
+  
+
+  h1 {
+    color: red;
+    font-size: 500%;
+    font-family: 'sans-serif';
+  }  
+  h5{
+    size: 10%;
+    
+  }
+p{
+  color:white;
+}
+.hello{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: white
+}
+.hi{
+  background-color: black;
+}
+.margin{
+  background-color: black;
+  color:white;
+}
